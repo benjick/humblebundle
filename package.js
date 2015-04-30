@@ -1,8 +1,7 @@
 Package.describe({
   name: 'rymd:humblebundle',
   version: '0.1.1',
-  // Brief, one-line summary of the package.
-  summary: '',
+  summary: 'Access the Humble Bundle API',
   git: 'https://github.com/rymd/humblebundle.git',
   documentation: 'README.md'
 });
